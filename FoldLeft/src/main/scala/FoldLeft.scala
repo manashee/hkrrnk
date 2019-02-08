@@ -4,6 +4,7 @@ object FoldLeft extends App {
 
 
   println ( sum ( List ( 1,2,3,4,5,6) ))
+  println ( product ( List ( 1,2,3 ) ))
   println ( concat ( List ( '1','2','3' ) ))
   println ( concat2 ( List ( '1','2','3' ) ))
 
@@ -14,6 +15,9 @@ object FoldLeft extends App {
     list.foldLeft (0) ( (acc , i ) => {acc + i } )
   }
 
+def product ( list : List [Integer]) : Integer = {
+  list.foldLeft ( 1 ) ((i, acc) => { i * acc })
+}
 
   def concat ( list : List [Char]): String = {
     list.foldLeft ( "Prefix" ) ( (i, acc) => { acc + i }  )
