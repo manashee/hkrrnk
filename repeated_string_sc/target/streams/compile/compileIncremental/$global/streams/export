@@ -1,0 +1,1 @@
+scalac -classpath /home/ashok/hkrrnk/repeated_string_sc/target/scala-2.12/classes -bootclasspath /home/ashok/.sbt/boot/scala-2.12.4/lib/scala-library.jar /home/ashok/hkrrnk/repeated_string_sc/src/main/scala/Solution.scala

@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/ashok/hkrrnk/FoldLeft/src/main/scala/FoldLeft.scala:23:10: value foldRightt is not a member of List[Char][0m
+[0m[[0m[31merror[0m] [0m[0m    list.foldRightt ( "Prefix" ) ( (acc, i) => { acc + i }  )[0m
+[0m[[0m[31merror[0m] [0m[0m         ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

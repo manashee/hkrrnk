@@ -1,0 +1,1 @@
+scalac -classpath /home/ashok/hkrrnk/tailrec_sc/target/scala-2.12/classes -bootclasspath /home/ashok/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.8.jar /home/ashok/hkrrnk/tailrec_sc/src/main/scala/App.scala

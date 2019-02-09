@@ -1,0 +1,35 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "com.ash.todo"
+        },
+        "jhipsterVersion": "5.8.1",
+        "applicationType": "gateway",
+        "baseName": "todo",
+        "packageName": "com.ash.todo",
+        "packageFolder": "com/ash/todo",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "hazelcast",
+        "enableHibernateCache": true,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "h2Disk",
+        "prodDatabaseType": "postgresql",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": "eureka",
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "OTNjYTg4MTE4MmIwZTJlZjY2NzExZGJhOWNhYzA4NGFlYTMzOTY2N2M2NjI0M2Q4YTI0NzJhZjBlZjU1NWM4Zjc4ZTI1MmJkNGRmZTE4OGRiYjhhZjE4MzVhYjJhZjY0MThkZjM5YmYwY2Q4MmU4NDg1NWY3NmVkYmJmODcyY2Y=",
+        "clientFramework": "angularX",
+        "useSass": false,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "entitySuffix": "",
+        "dtoSuffix": "DTO",
+        "otherModules": [],
+        "enableTranslation": false
+    }
+}

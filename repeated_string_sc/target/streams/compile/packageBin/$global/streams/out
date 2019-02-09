@@ -1,0 +1,13 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/ashok/hkrrnk/repeated_string_sc/target/scala-2.12/repeated_string_sc_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main/scala/Solution$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ashok/hkrrnk/repeated_string_sc/target/scala-2.12/classes/main/scala/Solution$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main/scala/Solution$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ashok/hkrrnk/repeated_string_sc/target/scala-2.12/classes/main/scala/Solution$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ashok/hkrrnk/repeated_string_sc/target/scala-2.12/classes/main[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main/scala/Solution.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ashok/hkrrnk/repeated_string_sc/target/scala-2.12/classes/main/scala/Solution.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main/scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ashok/hkrrnk/repeated_string_sc/target/scala-2.12/classes/main/scala[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
